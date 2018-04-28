@@ -675,7 +675,7 @@
 </lootgroup>
 
 <lootgroup name="weaponsMagnum+ammo" loot_quality_template="treasureTemplate"> <!-- weaponPartsTemplate -->
-	<item group="gun44Magnum"/>
+	<item name="gun44Magnum"/>
 	<item name="44MagBullet" count="1,25"/>
 </lootgroup>
 
